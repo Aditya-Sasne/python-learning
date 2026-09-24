@@ -1,4 +1,4 @@
-day = input("Enter day")
+day = input("Enter day : ")
 
 if day == "Monday" or day == "Mon" :
     print("Week started")
